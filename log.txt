@@ -1,0 +1,30 @@
+UserID: 1647318305 | Time: 2024-08-17 12:42:58.416923 | Command: /bgmi | Target: 20.219.167.158 | Port: 16065 | Time: 5
+Username: @Godfather1nonly
+Target: 20.219.167.158
+Port: 16065
+Time: 5
+
+UserID: 1647318305 | Time: 2024-08-17 12:47:31.196172 | Command: /bgmi | Target: 20.235.88.177 | Port: 15196 | Time: 200
+Username: @Godfather1nonly
+Target: 20.235.88.177
+Port: 15196
+Time: 200
+
+UserID: 1647318305 | Time: 2024-08-17 13:16:32.135598 | Command: /bgmi | Target: 20.204.16.218 | Port: 24373 | Time: 300
+Username: @Godfather1nonly
+Target: 20.204.16.218
+Port: 24373
+Time: 300
+
+UserID: 1647318305 | Time: 2024-08-17 13:21:45.719552 | Command: /bgmi | Target: 20.204.16.218 | Port: 24373 | Time: 100
+Username: @Godfather1nonly
+Target: 20.204.16.218
+Port: 24373
+Time: 100
+
+UserID: 1647318305 | Time: 2024-08-17 13:23:47.774531 | Command: /bgmi | Target: 20.204.16.218 | Port: 24373 | Time: 60
+Username: @Godfather1nonly
+Target: 20.204.16.218
+Port: 24373
+Time: 60
+
