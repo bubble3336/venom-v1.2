@@ -1,4 +1,4 @@
-#script by @DDOSMOD_OWNER
+#script by @DDOSMOD_OWNER Mods
 
 import telebot
 import subprocess
